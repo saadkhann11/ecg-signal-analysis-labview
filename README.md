@@ -35,5 +35,4 @@ and an FFT gives a view of the signal in the frequency domain.
 LabVIEW, Signal Processing, Digital Filtering, FFT, Biomedical Signal Analysis
 
 ## Notes
-This is a personal learning project. The sample signal used here comes from
-[your source, e.g. a public ECG dataset / simulated data].
+This is a personal learning project. The sample signal used here comes from simulated data.
