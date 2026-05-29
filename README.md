@@ -15,10 +15,10 @@ processing and sharpen my LabVIEW skills.
 ## Screenshots
 
 **Front panel**
-![Front panel](images/front-panel.png)
+![Front panel](Images/front-panel.png)
 
 **Block diagram**
-![Block diagram](images/block-diagram.png)
+![Block diagram](Images/block-diagram.png)
 
 ## How it works
 The raw signal first passes through a filter stage to strip out baseline wander
